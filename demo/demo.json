@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "wxmarked": "/pages/home/wxparse/wxparse"
+  }
+}
